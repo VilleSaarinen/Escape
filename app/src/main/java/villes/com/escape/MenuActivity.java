@@ -76,7 +76,7 @@ public class MenuActivity extends AppCompatActivity {
         @Override
         public void onClick(View v)
         {
-            System.out.println("ASAA");
+            System.out.println("ASAA2");
         }
     };
 
